@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\datos\\dclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:datos\\dclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\datos\\dasigancionplaza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:datos\\dasigancionplaza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\modelo\\masignacionplaza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:modelo\\masignacionplaza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\controllers\\asignacionplazacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:controllers\\asignacionplazacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\datos\\dvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:datos\\dvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\modelo\\mvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:modelo\\mvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\modelo\\mmarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:modelo\\mmarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\modelo\\mtiposvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:modelo\\mtiposvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\modelo\\mtipodocumentoidentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:modelo\\mtipodocumentoidentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\modelo\\mclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:modelo\\mclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|c:\\users\\julem\\source\\repos\\proyectoestacionamiento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CDD6C4A-4D85-458E-AC2B-E74A6D01695D}|ProyectoEstacionamiento.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Masignacionplaza.cs",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Modelo\\Masignacionplaza.cs",
+              "RelativeDocumentMoniker": "Modelo\\Masignacionplaza.cs",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Modelo\\Masignacionplaza.cs",
+              "RelativeToolTip": "Modelo\\Masignacionplaza.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T03:27:34.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsignacionPlazaController.cs",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Controllers\\AsignacionPlazaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AsignacionPlazaController.cs",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Controllers\\AsignacionPlazaController.cs",
+              "RelativeToolTip": "Controllers\\AsignacionPlazaController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:38:59.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:11:45.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Controllers\\VehiculosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehiculosController.cs",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Controllers\\VehiculosController.cs",
+              "RelativeToolTip": "Controllers\\VehiculosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:29:06.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mtipodocumentoidentidad.cs",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Modelo\\Mtipodocumentoidentidad.cs",
+              "RelativeDocumentMoniker": "Modelo\\Mtipodocumentoidentidad.cs",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Modelo\\Mtipodocumentoidentidad.cs",
+              "RelativeToolTip": "Modelo\\Mtipodocumentoidentidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T03:21:29.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mtiposvehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Modelo\\Mtiposvehiculo.cs",
+              "RelativeDocumentMoniker": "Modelo\\Mtiposvehiculo.cs",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Modelo\\Mtiposvehiculo.cs",
+              "RelativeToolTip": "Modelo\\Mtiposvehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T03:19:34.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mmarcas.cs",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Modelo\\Mmarcas.cs",
+              "RelativeDocumentMoniker": "Modelo\\Mmarcas.cs",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Modelo\\Mmarcas.cs",
+              "RelativeToolTip": "Modelo\\Mmarcas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T03:18:25.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mvehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Modelo\\Mvehiculos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Mvehiculos.cs",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Modelo\\Mvehiculos.cs",
+              "RelativeToolTip": "Modelo\\Mvehiculos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T03:15:02.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mclientes.cs",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Modelo\\Mclientes.cs",
+              "RelativeDocumentMoniker": "Modelo\\Mclientes.cs",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Modelo\\Mclientes.cs",
+              "RelativeToolTip": "Modelo\\Mclientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:15:02.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T23:09:28.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dasigancionplaza.cs",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Datos\\Dasigancionplaza.cs",
+              "RelativeDocumentMoniker": "Datos\\Dasigancionplaza.cs",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Datos\\Dasigancionplaza.cs",
+              "RelativeToolTip": "Datos\\Dasigancionplaza.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowDMAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:39:38.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dvehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Datos\\Dvehiculos.cs",
+              "RelativeDocumentMoniker": "Datos\\Dvehiculos.cs",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Datos\\Dvehiculos.cs",
+              "RelativeToolTip": "Datos\\Dvehiculos.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAcwNAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T03:35:29.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dclientes.cs",
+              "DocumentMoniker": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Datos\\Dclientes.cs",
+              "RelativeDocumentMoniker": "Datos\\Dclientes.cs",
+              "ToolTip": "C:\\Users\\Julem\\source\\repos\\ProyectoEstacionamiento\\Datos\\Dclientes.cs",
+              "RelativeToolTip": "Datos\\Dclientes.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwGYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:27:31.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

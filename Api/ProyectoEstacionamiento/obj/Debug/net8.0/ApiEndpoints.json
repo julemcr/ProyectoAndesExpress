@@ -1,0 +1,358 @@
+[
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.AsignacionPlazaController",
+    "Method": "Get",
+    "RelativePath": "api/asignacionplaza",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ProyectoEstacionamiento.Modelo.Masignacionplaza, ProyectoEstacionamiento, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.AsignacionPlazaController",
+    "Method": "Post",
+    "RelativePath": "api/asignacionplaza",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Masignacionplaza",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.AsignacionPlazaController",
+    "Method": "Put",
+    "RelativePath": "api/asignacionplaza/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Masignacionplaza",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.AsignacionPlazaController",
+    "Method": "Delete",
+    "RelativePath": "api/asignacionplaza/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Masignacionplaza",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.AsignacionPlazaController",
+    "Method": "PostMostrarAsignacionPlazaId",
+    "RelativePath": "api/asignacionplaza/id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Masignacionplaza",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ProyectoEstacionamiento.Modelo.Masignacionplaza, ProyectoEstacionamiento, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.ClientesController",
+    "Method": "Get",
+    "RelativePath": "api/clientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ProyectoEstacionamiento.Modelo.Mclientes, ProyectoEstacionamiento, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.ClientesController",
+    "Method": "Post",
+    "RelativePath": "api/clientes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Mclientes",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.ClientesController",
+    "Method": "Put",
+    "RelativePath": "api/clientes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Mclientes",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.ClientesController",
+    "Method": "Delete",
+    "RelativePath": "api/clientes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Mclientes",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.ClientesController",
+    "Method": "PostBusquedaClienteId",
+    "RelativePath": "api/clientes/id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Mclientes",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ProyectoEstacionamiento.Modelo.Mclientes, ProyectoEstacionamiento, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.VehiculosController",
+    "Method": "Get",
+    "RelativePath": "api/vehiculos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ProyectoEstacionamiento.Modelo.Mvehiculos, ProyectoEstacionamiento, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.VehiculosController",
+    "Method": "Post",
+    "RelativePath": "api/vehiculos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Mvehiculos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.VehiculosController",
+    "Method": "Put",
+    "RelativePath": "api/vehiculos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Mvehiculos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.VehiculosController",
+    "Method": "Delete",
+    "RelativePath": "api/vehiculos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Mvehiculos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.VehiculosController",
+    "Method": "PostMostrarVehiculoCliente",
+    "RelativePath": "api/vehiculos/cliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Mvehiculos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ProyectoEstacionamiento.Modelo.Mvehiculos, ProyectoEstacionamiento, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyectoEstacionamiento.Controllers.VehiculosController",
+    "Method": "PostMostrarVehiculoid",
+    "RelativePath": "api/vehiculos/id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parametros",
+        "Type": "ProyectoEstacionamiento.Modelo.Mvehiculos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ProyectoEstacionamiento.Modelo.Mvehiculos, ProyectoEstacionamiento, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
